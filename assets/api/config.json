@@ -2,7 +2,7 @@
     "config" : {
         "background": "#023047FF",
         "colorText": "#c7c7c7c7",
-        "info": "http://149.130.181.132/api/nowplaying/emisora_enred-ito",
+        "info": "https://149.130.181.132/api/nowplaying/emisora_enred-ito",
         "lottie" : "https://assets1.lottiefiles.com/packages/lf20_brecptzv.json",
         "borde" : "rgb(181, 52, 113)",
         "nombre": "Emisora Enredito HD"
