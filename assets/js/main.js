@@ -1,6 +1,6 @@
 //Creado por © MOx Innovation 2023 - Derechos Reservados - licencia MIT
 
-$.getJSON('./assets/api/config.json', (query)=>{
+$.getJSON('/assets/api/config.json', (query)=>{
     var info = query.config.info
     var background = query.config.background
     var color = query.config.colorText
